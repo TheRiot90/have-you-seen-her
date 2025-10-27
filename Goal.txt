@@ -1,0 +1,3 @@
+# Goal
+
+Make something cool together and to get a feel for the workflow of game dev.
